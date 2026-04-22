@@ -1,0 +1,1 @@
+Indian Script Sync is a Python-based project designed to process and classify documents written in multiple Indian languages. The system focuses on handling diverse scripts efficiently and ensuring consistency across multilingual datasets using text processing and classification techniques.
